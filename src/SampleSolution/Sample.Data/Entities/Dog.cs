@@ -1,4 +1,4 @@
-﻿namespace Sample.Data.Models
+﻿namespace Sample.Data.Entities
 {
     public class Dog
     {

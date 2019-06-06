@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.CommandLineUtils;
-using Sample.Data.Models;
+using Sample.Data.Entities;
 using System;
 using System.Linq;
 
