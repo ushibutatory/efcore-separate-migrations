@@ -10,6 +10,7 @@ namespace Sample.Data.Operator
     {
         public static int Main(string[] args)
         {
+            // NOTE: 本筋から逸れるが、初期データ投入などの作業をコマンドラインでできるようにしてみた
             var app = new CommandLineApplication(throwOnUnexpectedArg: false)
             {
                 Name = "Sample.Data.Operator",
