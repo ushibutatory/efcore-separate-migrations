@@ -6,6 +6,8 @@ EF CoreのMigrationsファイルをDbContextのあるライブラリとは別で
 
 ## 構成
 
+![image](https://raw.githubusercontent.com/ushibutatory/efcore-separate-migrations/master/docs/images/solution_explorer.png)
+
 ### Sample.Data
 
 - クラスライブラリ
